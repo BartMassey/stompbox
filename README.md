@@ -27,7 +27,7 @@ be good enough to start.
 
 ## Working With This Circuit
 
-You will need [KiCad][kicad] version 5.1 or better. I am
+You will need [KiCad](https://kicad.org/) version 5.1 or better. I am
 using Debian Linux KiCad `5.1.9+dfsg1-1`. The `stompbox.pro`
 file should just work.
 
